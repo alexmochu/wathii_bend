@@ -1,0 +1,11 @@
+{
+  "name": "wathii_bend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/alexmochu/wathii_bend.git",
+  "author": "alexmochu <mochualex4@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.16.7"
+  }
+}
